@@ -69,5 +69,3 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
 
 ```
 ---
-
-
